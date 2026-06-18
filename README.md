@@ -1,4 +1,5 @@
 # 🎬 Studio — AI-Powered Video-to-Content for macOS
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d5e49cdd-076b-4400-a8f7-d87e44471fab" />
 
 **Studio** is a native macOS application designed specifically for YouTubers, video editors, and content creators. It automates your post-production metadata generation by combining blazing-fast **on-device AI models** with optional cloud API integrations.
 
